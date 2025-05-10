@@ -1,0 +1,47 @@
+.contact{
+
+    margin: 80px auto;
+    max-width: 90%;
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+
+
+}
+.contact-col{
+
+    flex-basis: 48%;
+    color: #0a0b0b;
+}
+
+.contact-col h3{
+
+    color: #c71717;
+    font-size: 25px;
+    font-weight: 500;
+    padding-bottom: 5px;
+    cursor: pointer;
+    background-color: greenyellow;
+    text-shadow: #c71717;
+    text-overflow: ellipsis;
+
+}
+.contact-col h3:hover{
+
+    color: red;
+}
+
+.contact-col h4{
+
+    background-color: #6317c7;
+    text-align: center;
+    padding-left: 0px;
+    
+}
+
+.contact-col5{
+
+    color: #c71717;
+    text-align: center;
+    
+}
